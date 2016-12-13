@@ -13,6 +13,6 @@ Inspired by @plamere's 'roadtrip-mixtape' app.
 		```python -m SimpleHTTPServer
 		```
 
-Coming Soon:
-* Visit it at: [TBD](https://web.njit.edu/~anp55)
+*Coming Soon:*
+* Visit application at: [TBD](https://web.njit.edu/~anp55)
 
